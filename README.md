@@ -1,7 +1,7 @@
 ## Introduction
 
 Glicol should now be able to run on every DAW:
-https://youtu.be/yFKH9ou_XyQ
+https://www.youtube.com/watch?v=tmmBhBmIEW0
 
 Modified on top of:
 https://github.com/DGriffin91/egui_baseview_test_vst2
